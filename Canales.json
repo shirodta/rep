@@ -1,0 +1,58 @@
+[
+{
+"title": "Directv Sports 1",
+"league": "Deportes",
+"url": "\/embed/eventos\/?r=https://apps-oficial.com/apps/views/forms/entretenimiento/reproductor_todo.php?id=nbatv&canal_name=NBA%20&lang=&img=https://apps-oficial.com/apps/resources/assets/img/canal/nba.png&canal_name=NBA%20&img=https://apps-oficial.com/apps/resources/assets/img/canal/nba.png",
+"img": "https://apps-oficial.com/apps/resources/assets/img/canal/DSPORT.png",
+"status": "EN VIVO"
+},
+{
+"title": "ESPN 1",
+"league": "Deportes",
+"url": "#",
+"img": "https://www.1prox.com/upload/images/espn.png",
+"status": "EN VIVO"
+},
+{
+"title": "TNT 1",
+"league": "Deportes",
+"url": "#",
+"img": "https://www.1prox.com/upload/images/tnt1.jpg",
+"status": "EN VIVO"
+},
+{
+"title": "Dazn 1",
+"league": "Deportes",
+"url": "#",
+"img": "https://apps-oficial.com//apps/resources//assets/img/canal/D1.png",
+"status": "EN VIVO"
+},
+{
+"title": "Fox Sports 1",
+"league": "Deportes",
+"url": "#",
+"img": "https://www.1prox.com/upload/images/fx.jpg",
+"status": "EN VIVO"
+},
+{
+"title": "Win Sports +",
+"league": "Deportes",
+"url": "#",
+"img": "https://www.1prox.com/upload/images/w1.jpg",
+"status": "EN VIVO"
+},
+{
+"title": "Goltv",
+"league": "Deportes",
+"url": "#",
+"img": "https://apps-oficial.com/apps/resources/assets/img/canal/goltv.png",
+"status": "EN VIVO"
+},
+{
+"title": "HBO",
+"league": "Premium",
+"url": "#",
+"img": "https://www.1prox.com/upload/images/h%20(1).jpg",
+"status": "EN VIVO"
+}
+]
